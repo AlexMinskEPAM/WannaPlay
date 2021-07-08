@@ -1,0 +1,41 @@
+body {
+    background: url('fon.jpg') no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    /* cursor: url(https://img.flaticon.com/icons/png/512/178/178431.png?size=1200x630f&pad=10,10,10,10&ext=png&bg=FFFFFFFF), default; */
+    
+} 
+.fon {
+    background: url('g4.jpg') no-repeat;
+    background-size: auto;
+    width: 720px;
+    height: 1280px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+}
+.count{
+    position: absolute;
+    top: 65px;
+    left: 295px;
+}
+/* .table{
+   width:90%;
+   border-bottom: 10px solid brown;
+   display:flex;
+   justify-content: space-around;
+   height: 150px; 
+   align-items: flex-end;  
+}
+.umbrellas{
+    width: 70px;
+    height: 125px;
+    background: url('zont1.png') center bottom/100px auto no-repeat;
+    padding: 25px 25px 0;
+} */
